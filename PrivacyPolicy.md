@@ -4,7 +4,7 @@
 
 Halke Studio ("we", "us", or "our") develops and provides **Guns & Rugs: Idle Tycoon** (the "Game"). This Privacy Policy explains how information is handled when you play the Game or contact us.
 
-For privacy questions and requests, contact **[nahalkestudio@gmail.com](mailto:nahalkestudio@gmail.com)**.
+For privacy questions and requests, contact **[nahalkestudiogames@gmail.com](mailto:nahalkestudiogames@gmail.com)**.
 
 ## 1. Information handled by the Game
 
@@ -70,7 +70,7 @@ Where an advertising consent or privacy dialog is presented, you can make the ch
 
 Depending on your location, you may have rights to access, correct, delete, or receive a copy of your personal information; restrict or object to processing; withdraw consent; or opt out of sale, sharing, or targeted advertising. You may also complain to the relevant data protection authority. We will not discriminate against you for exercising applicable privacy rights.
 
-Send requests to **[nahalkestudio@gmail.com](mailto:nahalkestudio@gmail.com)** with the subject "Guns & Rugs Privacy Request". Explain your request and provide only the information reasonably needed to locate the relevant records. We may ask for additional information to verify the request. Because the Game does not require an account, we may be unable to link a name or email address to device-based records without additional identifiers. We will explain any such limitation and, where appropriate, help direct a request to the relevant provider.
+Send requests to **[nahalkestudiogames@gmail.com](mailto:nahalkestudiogames@gmail.com)** with the subject "Guns & Rugs Privacy Request". Explain your request and provide only the information reasonably needed to locate the relevant records. We may ask for additional information to verify the request. Because the Game does not require an account, we may be unable to link a name or email address to device-based records without additional identifiers. We will explain any such limitation and, where appropriate, help direct a request to the relevant provider.
 
 The Game's **Reset Progress** option resets local gameplay progress. It does not delete previously transmitted analytics, advertising records, or all device settings and identifiers. You can clear the app's local data using your operating system's controls where available. Platform backup and restoration settings may affect whether local information is restored later.
 
@@ -110,4 +110,4 @@ We may update this policy when the Game, its service providers, or legal require
 
 **Game:** Guns & Rugs: Idle Tycoon
 
-**Privacy and support contact:** [nahalkestudio@gmail.com](mailto:nahalkestudio@gmail.com)
+**Privacy and support contact:** [nahalkestudiogames@gmail.com](mailto:nahalkestudiogames@gmail.com)
